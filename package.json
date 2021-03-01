@@ -37,7 +37,7 @@
     "react-scripts": "3.4.1",
     "react-three-fiber": "^4.2.7",
     "recompose": "^0.30.0",
-    "three": "^0.117.0",
+    "three": "^0.125.0",
     "uuid": "^8.0.0"
   },
   "scripts": {
